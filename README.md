@@ -1,4 +1,4 @@
-# Compteur React + Express + SQLite (sous Docker)
+# 🧠 Compteur React + Express + SQLite (sous Docker)
 
 Ce projet est une démonstration simple d’un **compteur** avec :
 
