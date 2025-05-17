@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "Atl coder avec IA",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
